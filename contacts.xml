@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="contacts.xsl"?>
+<contacts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="contacts.xsd">
+    <contact>
+        <name>Arunima</name>
+        <phone>9568749</phone>
+        <email>arunima@gmail.com</email>
+        <address>Mantripukhri</address>
+        <dob>2003-04-04</dob>
+    </contact>
+    <contact><name>devika</name><phone>95412368</phone><address>luwangsangbam</address><email>reddit@hotmail.com</email><dob>2025-03-12</dob></contact>
+   <contact><name>kavyaa</name><phone>9545558</phone><address>Singjamei</address><email>kavyaa18@hotmail.com</email><dob>2023-04-04</dob></contact>
+   <contact><name>aditi</name><phone>33332368</phone><address>Wangkhei</address><email>chaichim@hotmail.com</email><dob>2015-03-25</dob></contact>
+   
+    <contact><name>nitk</name><phone>999999</phone><address>Ghari</address><email>lkjiu@redds.com</email><dob>2025-03-03</dob></contact><contact><name>eeee</name><phone>2345678</phone><email>ews32@gtu.vim</email><address>asdre</address><dob>2025-03-11</dob></contact><contact><name>arunima</name><phone>95412368</phone><email>arunima31@gmail.com</email><address>Mantripukhri</address><dob>2025-03-02</dob></contact><contact><name>hhuuu</name><phone>0987</phone><email>dasArunima@hotmail.com</email><address>Janakpuri west</address><dob>2025-07-25</dob></contact></contacts>
