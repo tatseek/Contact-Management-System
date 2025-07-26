@@ -32,11 +32,16 @@ A simple web-based Contact Management System that allows users to **add**, **vie
 ```bash
 /
 ├── index.html              # Main UI to display contacts
+<<<<<<< HEAD
 ├── add_contact_form.html   # Form to add new contacts
+=======
+├── add_contact.html   # Form to add new contacts
+>>>>>>> 913c50533c77c805fcb3f9ab92ef7ad89e98c5af
 ├── contacts.xml            # XML file storing contact data
 ├── contacts.xsl            # XSLT stylesheet for displaying contacts
 ├── contacts.xsd            # XML schema definition (XSD)
 ├── save_contact.php        # PHP script to save new contact to XML
+<<<<<<< HEAD
 ├── validate_xml.php        # PHP script to validate XML against XSD
 ├── transform_xml.php       # PHP script to apply XSLT transform
 
